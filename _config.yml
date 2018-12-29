@@ -1,0 +1,16 @@
+# Site settings
+title: DocIT
+email: jan.topinski@docit.website
+lead: > # this means to ignore newlines until "baseurl:"
+  DocIT is developed to help produce films and software.
+description: > # this means to ignore newlines until "baseurl:"
+  Our organization is produceing audiovisual content and software. We are also helpeing
+  to develop start-ups in IT and movie industries.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://docit.website" # the base hostname & protocol for your site
+
+phone_number: +48 502 717 035
+github_username: doc-it
+
+# Build settings
+markdown: kramdown
